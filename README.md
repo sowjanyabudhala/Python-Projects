@@ -1,7 +1,6 @@
 # 🐍 Python Mini Projects Collection  
 
 ## 📌 Table of Contents  
-- [Demo](#demo)  
 - [Overview](#overview)  
 - [Projects Included](#projects-included)  
 - [Motivation](#motivation)  
@@ -12,11 +11,6 @@
 - [Technologies Used](#technologies-used)  
 - [Credits](#credits)  
 
----
-
-## 🎥 Demo  
-🔗 **Live Demo**: [Add your deployment link here]  
-![Demo](https://your-demo-link.com/demo.gif)  
 
 ---
 
@@ -96,7 +90,6 @@ jupyter notebook phone_number_details.ipynb
  ┃ ┣ 📄 atm_generator.ipynb  
  ┃ ┣ 📄 rock_paper_scissor.ipynb  
  ┃ ┣ 📄 phone_number_details.ipynb  
- ┣ 📄 requirements.txt  
  ┣ 📄 README.md  
  ┣ 📄 LICENSE  
 
